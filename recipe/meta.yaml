@@ -30,7 +30,6 @@ test:
   requires:
     - pip
     - pytest
-    - commentjson
   source_files:
     - tests
   commands:
