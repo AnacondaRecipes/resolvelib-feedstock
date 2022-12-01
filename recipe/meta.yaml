@@ -35,6 +35,7 @@ test:
 about:
   home: https://github.com/sarugaku/resolvelib
   license: ISC
+  license_family: OTHER
   license_file: LICENSE
   summary: Simple, fast, extensible JSON encoder/decoder for Python
   description: |
