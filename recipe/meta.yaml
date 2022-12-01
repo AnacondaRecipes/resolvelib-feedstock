@@ -29,12 +29,8 @@ test:
     - resolvelib
   requires:
     - pip
-    - pytest
-  source_files:
-    - tests
   commands:
     - pip check
-    - pytest
 
 about:
   home: https://github.com/sarugaku/resolvelib
